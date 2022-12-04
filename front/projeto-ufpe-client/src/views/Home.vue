@@ -4,6 +4,6 @@
 
 <template>
     <div>
-     <h1>João</h1>
+     <h1>Pagina Home</h1>
     </div>
 </template>
