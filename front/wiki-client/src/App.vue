@@ -9,6 +9,6 @@ import 'bootstrap/dist/css/bootstrap.min.css'
    </RouterView>
 </template>
 
-<style scoped>
+<style>
 
 </style>

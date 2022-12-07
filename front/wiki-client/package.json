@@ -1,5 +1,5 @@
 {
-  "name": " projeto-ufpe-client",
+  "name": "wiki-client",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.2",
     "pinia": "^2.0.23",
     "vue": "^3.2.41",
     "vue-router": "^4.1.5"
