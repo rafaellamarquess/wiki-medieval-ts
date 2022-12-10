@@ -1,7 +1,8 @@
 
 
 <template>
-    <div>
+
+      <div class="container text-center">
     <form>
   <div class="form-group">
     <label for="exampleInputEmail1">Email address</label>
@@ -14,10 +15,17 @@
   </div>
   <div class="form-check">
     <input type="checkbox" class="form-check-input" id="exampleCheck1">
-    <label class="form-check-label" for="exampleCheck1">Check me out</label>
+    <label class="form-check-label" for="exampleCheck1">Keep me Logged in</label>
   </div>
-  <button type="submit" class="btn btn-primary">Submit</button>
+  <button type="submit" class="btn btn-primary">Entrar</button>
 </form>
     </div>
 </template>
+
+<style>
+.form-group {
+  margin: 50px
+}
+
+</style>
 

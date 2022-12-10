@@ -7,7 +7,7 @@ export default {
 <template>
 
 <!-- Footer -->
-<footer class="text-center text-lg-start bg-light text-muted">
+<footer class="text-center text-lg-start bg-dark text-muted">
   <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom"></section>
 
   <!-- Section: Links  -->
@@ -72,23 +72,14 @@ export default {
           <p><i class="fas fa-home me-3"></i>Pernambuco, Brasil</p>
           <p><i class="fas fa-envelope me-3"></i>email@example.com</p>
           <div>
-      <a href="" class="me-4 text-reset">
-        <i class="fab fa-facebook-f"></i>
+            <a href="" class="me-4 text-reset">
+        <i class="bi bi-facebook"></i>
       </a>
       <a href="" class="me-4 text-reset">
-        <i class="fab fa-twitter"></i>
+        <i class="bi bi-twitter"></i>
       </a>
       <a href="" class="me-4 text-reset">
-        <i class="fab fa-google"></i>
-      </a>
-      <a href="" class="me-4 text-reset">
-        <i class="fab fa-instagram"></i>
-      </a>
-      <a href="" class="me-4 text-reset">
-        <i class="fab fa-linkedin"></i>
-      </a>
-      <a href="" class="me-4 text-reset">
-        <i class="fab fa-github"></i>
+        <i class="bi bi-google"></i>
       </a>
     </div>
         </div>
